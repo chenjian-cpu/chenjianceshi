@@ -1,0 +1,19 @@
+{
+    "name": "chenjian/chenjianceshi",
+    "description": "陈健测试",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenjian",
+            "email": "812276725@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Chenjianceshi\\":"src/"
+        }
+    }
+}
