@@ -4,7 +4,7 @@
  	 */
  	namespace Chenjianceshi;
 
- 	class test 
+ 	class Test 
  	{
  		public function add($a,$b){
  			return $a+$b;

@@ -10,10 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    "autoload":{
-        "psr-4":{
-            "Chenjianceshi\\":"src/"
-        }
-    }
+    "require": {}
 }
