@@ -9,7 +9,6 @@
             "email": "812276725@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
     },
     "autoload":{
